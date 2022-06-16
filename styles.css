@@ -24,7 +24,7 @@ img {
 
 h1 {
 	width: 90%;
-	margin: 0;
+	margin: 5px 10px;
 }
 
 .postcard-body {
@@ -39,6 +39,7 @@ h1 {
 	padding: 10px;
 }
 input {
+	margin-top: 3px;
 	border: none;
 	border-bottom: 1px gray solid;
 	font-size: 16px;
